@@ -8,6 +8,8 @@
 
 > training with 3 different process
 >> just Regrassion
+>> k fold , k = 5 
+>> leave one out
 
 ### Different Degree
 <div align="center">
