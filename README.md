@@ -2,16 +2,12 @@
 ###### tags:`Linear Regrassion` `Ridge Regrassion` `plot`
 ---
 ## Outcome
-> y = 2x + ε , ε = N(0,1)
-
-> 0.75 training set, 0.25 testing set
-
-> training with 3 different process
->> just Regrassion
-
->> k fold , k = 5 
-
->> leave one out
+- y = 2x + ε , ε = N(0,1)
+- 0.75 training set, 0.25 testing set
+- training with 3 different process
+-- just Regrassion
+-- k fold , k = 5 
+-- leave one out
 
 ### Different Degree
 <div align="center">
