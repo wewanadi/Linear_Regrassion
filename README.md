@@ -3,7 +3,9 @@
 ---
 ## Outcome
 > y = 2x + ε , ε = N(0,1)
+
 > 0.75 training set, 0.25 testing set
+
 ### Different Degree
 <div align="center">
   <img src=https://github.com/wewanadi/Linear_Regration/blob/master/picture/b_1.png width="220">
@@ -11,6 +13,7 @@
   <img src=https://github.com/wewanadi/Linear_Regration/blob/master/picture/ML_HW1(b_10).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regration/blob/master/picture/ML_HW1(b_14).png width="220">
 </div>
+
 ### Different Data
 <div align="center">
   <img src=https://github.com/wewanadi/Linear_Regration/blob/master/picture/ML_HW1(b_14).png width="220">
