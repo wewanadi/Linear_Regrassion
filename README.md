@@ -83,7 +83,6 @@ def Linear_Regression(x, y):
 ![](http://latex.codecogs.com/gif.latex?\{W}=(X^TX+{\lambda}I)^{-1}X^TY)
 
 ``` python
-# do Ridge Regression : w = 
 def Ridge_Regression(x, y, λ):
     xt = np.transpose(x)
     b = np.identity(pol+1)
@@ -92,6 +91,7 @@ def Ridge_Regression(x, y, λ):
 
 ### error
 ``` python
+# get error with numpy
 def sqr_error(y_hat, y):
     return (y_hat - y) ** 2
 
@@ -103,6 +103,7 @@ def get_error(x,y,w):
 
 ### k-fold
 ``` python
+# split test data into k part, and switch vaildation data to different part. 
 def k_fold(X_train,y_train,pol):
     ws = np.array([])
     vaild_errors = np.array([])
@@ -129,6 +130,7 @@ def k_fold(X_train,y_train,pol):
 
 ### Leave one out
 ``` python
+# one train data will be vaildation data
 def leave_one_out(X_train,y_train,pol):
     ws = np.array([])
     vaild_errors = np.array([])
@@ -168,22 +170,27 @@ print ('Test error :',ve3)
 import matplotlib.pyplot as plt
 import os
 plt.title('y = 2x + ε , x = [0,1] , ε =  N(0,1)')
-# plt.title('y = sin(2πx) +ε  , x = [0,1] , ε =  N(0,0.04)')
+
+# data spot one the plot, train green , test red
 plt.scatter(X_train[:,-2], y_train, s=25, c='g', alpha = 0.6)
 plt.scatter(X_test[:,-2], y_test, s=25, c='r', alpha = 0.6)
+
+# different w draw different line
 X = np.arange(-3,3,0.01)
 X = power_mat(X,pol)
 Y1 = np.dot (X, w1)
 Y2 = np.dot (X, w2)
 Y3 = np.dot (X, w3)
-
-plt.xlim((-0.1,1.1))
-plt.ylim((-8, 8))
-
 plt.plot(X[:,-2],Y1,lw=1 , c = 'purple',alpha = 0.6)
 plt.plot(X[:,-2],Y2,lw=1)
 plt.plot(X[:,-2],Y3,lw=1)
 
+# set the border
+plt.xlim((-0.1,1.1))
+plt.ylim((-8, 8))
+
+# set small box
 plt.legend(['Just Train','5 fold','leave one out','Train Data','Test Data'], loc='lower right')
+
 plt.savefig("{}/ML_HW1(e_{}_{}_3).png".format(os.getcwd(),pol,data_size),dpi=1000)
 ```
