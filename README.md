@@ -11,10 +11,8 @@
 
 ### Different Degree
 <div align="center">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220"
-       padding: 2px;">这里输入题注</div>
-  >
-  
+  ![apple](https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" )
+<!--   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220"> -->
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
