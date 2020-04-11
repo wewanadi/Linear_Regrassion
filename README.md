@@ -9,9 +9,10 @@
   - k fold , k = 5 
   - leave one out
   
-刘备|哭|大哥
-关羽|打|二哥
-张飞|骂|三弟
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"> | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
   
 ### Different Degree
 <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
