@@ -77,6 +77,7 @@ def Linear_Regression(x, y):
 ```
 
 ### Ridge Regrssion 
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= W = (X^TX + λI)^{-1}X^TY" style="border:none;">
 ``` python
 # do Ridge Regression : w = 
 def Ridge_Regression(x, y, λ):
@@ -95,8 +96,6 @@ def get_error(x,y,w):
     error = sqr_error(y_hat, y)
     return error
 ```
-
-
 
 ### k-fold
 ``` python
