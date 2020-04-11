@@ -69,7 +69,7 @@ X_test = power_mat (X_test,pol)
 ```
 
 ### Linear Regrassion & Polynomial Regrssion 
-$$ W = X^t * Y
+$$ W = X^t * Y  $$
 ``` python
 def Linear_Regression(x, y):
     return np.dot(np.linalg.pinv(x), y)
