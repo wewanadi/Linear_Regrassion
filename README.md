@@ -69,7 +69,7 @@ X_test = power_mat (X_test,pol)
 ```
 
 ### Linear Regrassion & Polynomial Regrssion 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= W = X^{-1}  \cdot  Y" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= W = X^{-1} ⋅ Y" style="border:none;">
 ``` python
 def Linear_Regression(x, y):
     return np.dot(np.linalg.pinv(x), y)
