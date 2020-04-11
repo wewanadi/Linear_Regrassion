@@ -10,6 +10,18 @@
   - leave one out
 
 ### Different Degree
+
+<style type="text/css">
+#BorderBox{
+　border-top:5px black solid;　//上方邊框寬度設為 5px，顏色為黑色
+　border-right:8px red double;　//右邊的邊框寬度設為 8px，顏色為紅色，樣式為 double
+　border-left:7px yellow dotted;　//左邊的邊框寬度設為 7px，顏色為黃色，樣式為 dotted
+　border-bottom:3px blue dashed;　//下方邊框寬度設為 3px，顏色為藍色，樣式為 dashed
+　padding:30px;
+}
+</style>
+<div id="BorderBox">四個不同的邊框設計</div>
+
 <div align="center">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220">
