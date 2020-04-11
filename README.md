@@ -18,6 +18,7 @@
 </div>
 
 <div align="center">
+  <div style= "border-top:dotted 2px blue; border-bottom:dashed 4px red; border-left:double 6px green; border-right:solid 8px yellow; width: 300px ; height: 250 px">文字內容</div></p>
   <span style="width: 220px;"> degree = 1 </span>
   <span style="width: 220px;"> degree = 5 </span>
   <div style="width: 220px;"> degree = 10 </div>
