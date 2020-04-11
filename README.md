@@ -35,10 +35,11 @@
 data_size = 20
 test_size = int(data_size*0.25)
 train_size = int(data_size*0.75)
-import numpy as np
 
+import numpy as np
 x = np.linspace(0,1,data_size)
 ε = np.random.normal(0,1,size=(data_size))
+# y = 2x + ε , ε = N(0,1)
 y = 2 * x + ε
 ```
 
@@ -50,6 +51,7 @@ X_train, X_test, y_train, y_test = train_test_split(x, y,test_size=0.25,random_s
 
 ### Transform x into X
 ``` python
+# to do matrix product , first transform x in to X (with the degree number you want)
 def power_mat(x,pol):
     pol += 1
     matrix = np.array([])
@@ -67,6 +69,7 @@ X_test = power_mat (X_test,pol)
 ```
 
 ### Linear Regrassion & Polynomial Regrssion 
+$$ W = X^t * Y
 ``` python
 def Linear_Regression(x, y):
     return np.dot(np.linalg.pinv(x), y)
@@ -75,6 +78,7 @@ def Linear_Regression(x, y):
 
 ### Ridge Regrssion 
 ``` python
+# do Ridge Regression : w = 
 def Ridge_Regression(x, y, λ):
     xt = np.transpose(x)
     b = np.identity(pol+1)
