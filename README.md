@@ -19,9 +19,9 @@
 
 <div align="center">
   <font> degree = 1 </font>
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
+  <font> degree = 5 </font>
+  <font> degree = 10 </font>
+  <font> degree = 14 </font>
 </div>
 
 ### Different quantity  Data
@@ -32,12 +32,26 @@
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_320_1).png width="220">
 </div>
 
+<div align="center">
+  <font> datasize = 20 </font>
+  <font> datasize = 60 </font>
+  <font> datasize = 160 </font>
+  <font> datasize = 320 </font>
+</div>
+
 ### Ridge Regration
 <div align="center">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_1).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_2).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_3).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_4).png width="220">
+</div>
+
+<div align="center">
+  <font> λ = 0 </font>
+  <font> λ = 0.00005 </font>
+  <font> λ = 0.05 </font>
+  <font> λ = 50 </font>
 </div>
 
 ---
