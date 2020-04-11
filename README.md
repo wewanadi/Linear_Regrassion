@@ -142,7 +142,7 @@ def leave_one_out(X_train,y_train,pol):
     return ws,vaild_errors
 ```
 
-### Show image
+### Compute weight
 ```python
 w1 = Ridge_Regression(X_train,y_train, λ)
 ve0 = get_error(X_train,y_train,w1)
@@ -160,7 +160,10 @@ print ('leave one out Cross-Vaildation error :',np.sum(ve2)/ws.shape[0])
 ve3 = get_error(X_test,y_test,w1)
 ve3 = np.sum(ve3)/ve3.shape[0]
 print ('Test error :',ve3)
+```
 
+### Show image
+```python
 import matplotlib.pyplot as plt
 import os
 plt.title('y = 2x + ε , x = [0,1] , ε =  N(0,1)')
