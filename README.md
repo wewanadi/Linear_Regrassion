@@ -18,10 +18,10 @@
 </div>
 
 <div align="center">
-  <div style="width: 300px;"> degree = 1 </div>
-  <font> degree = 5 </font>
-  <font> degree = 10 </font>
-  <font> degree = 14 </font>
+  <div style="width: 220px;"> degree = 1 </div>
+  <div style="width: 220px;"> degree = 5 </div>
+  <div style="width: 220px;"> degree = 10 </div>
+  <div style="width: 220px;"> degree = 14 </div>
 </div>
 
 ### Different quantity  Data
