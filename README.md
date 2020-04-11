@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <font font-width="220"> degree = 1 </font>
+  <font style="border: 220"> degree = 1 </font>
   <font> degree = 5 </font>
   <font> degree = 10 </font>
   <font> degree = 14 </font>
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <font style="weight: 220"> datasize = 20 </font>
+  <font> datasize = 20 </font>
   <font> datasize = 60 </font>
   <font> datasize = 160 </font>
   <font> datasize = 320 </font>
