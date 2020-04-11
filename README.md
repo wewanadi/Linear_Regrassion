@@ -26,7 +26,7 @@
 
 ### Different quantity  Data
 <div align="center">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
+  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220" alt="datasize = 20">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_60_1).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_160_1).png width="220">
   <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_320_1).png width="220">
