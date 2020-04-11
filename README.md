@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <p style="width: 300px;"> degree = 1 </p>
+  <div style="width: 300px;"> degree = 1 </div>
   <font> degree = 5 </font>
   <font> degree = 10 </font>
   <font> degree = 14 </font>
