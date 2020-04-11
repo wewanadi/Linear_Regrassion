@@ -69,7 +69,7 @@ X_test = power_mat (X_test,pol)
 ```
 
 ### Linear Regrassion & Polynomial Regrssion 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$ W = X^{-1} {\cdot} Y $$" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= W = X^{-1} {\cdot} Y" style="border:none;">
 
 ``` python
 def Linear_Regression(x, y):
@@ -78,7 +78,7 @@ def Linear_Regression(x, y):
 ```
 
 ### Ridge Regrssion 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$W = (X^TX "+" {\lambda} I)^{-1}X^TY$$" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= W = (X^TX + {\lambda} I)^{-1}X^TY" style="border:none;">
 
 ``` python
 # do Ridge Regression : w = 
