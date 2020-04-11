@@ -8,59 +8,21 @@
   - just Regrassion
   - k fold , k = 5 
   - leave one out
-  
-| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220"> |
+    
+### Different Degree
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220"> |
 | :-----: | :----: | :----: | :----: |
 | degree : 1 | degree : 5 | degree : 10 | degree : 14 | 
-  
-### Different Degree
-<img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"><img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
-
-<div align="center">
-
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220">
-</div>
-
-<div align="center">
-  <div style= "border-top:dotted 2px blue; border-bottom:dashed 4px red; border-left:double 6px green; border-right:solid 8px yellow; width: 300px ; height: 250 px">文字內容</div></p>
-  <span style="width: 220px;"> degree = 1 </span>
-  <span style="width: 220px;"> degree = 5 </span>
-  <div style="width: 220px;"> degree = 10 </div>
-  <div style="width: 220px;"> degree = 14 </div>
-</div>
 
 ### Different quantity  Data
-<div align="center">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220" alt="datasize = 20">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_60_1).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_160_1).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_320_1).png width="220">
-</div>
-
-<div align="center">
-  <font> datasize = 20 </font>
-  <font> datasize = 60 </font>
-  <font> datasize = 160 </font>
-  <font> datasize = 320 </font>
-</div>
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_60_1).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_160_1).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(d_14_320_1).png width="220"> |
+| :-----: | :----: | :----: | :----: |
+| datasize : 20 | datasize : 60 | datasize : 160 | datasize : 320 | 
 
 ### Ridge Regration
-<div align="center">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_1).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_2).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_3).png width="220">
-  <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_4).png width="220">
-</div>
-
-<div align="center">
-  <font> λ = 0 </font>
-  <font> λ = 0.00005 </font>
-  <font> λ = 0.05 </font>
-  <font> λ = 50 </font>
-</div>
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_1).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_2).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_3).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(e_14_20_4).png width="220"> |
+| :-----: | :----: | :----: | :----: |
+| λ : 0 | λ : 0.00005 | λ : 0.05 | λ : 50 | 
 
 ---
 ## Code
