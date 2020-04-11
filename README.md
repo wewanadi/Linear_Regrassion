@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <b style="width: 220px;"> degree = 1 </b>
-  <b style="width: 220px;"> degree = 5 </b>
+  <span style="width: 220px;"> degree = 1 </span>
+  <span style="width: 220px;"> degree = 5 </span>
   <div style="width: 220px;"> degree = 10 </div>
   <div style="width: 220px;"> degree = 14 </div>
 </div>
