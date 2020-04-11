@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <div style="width: 220px;"> degree = 1 </div>
-  <div style="width: 220px;"> degree = 5 </div>
+  <img style="width: 220px;"> degree = 1 </img>
+  <img style="width: 220px;"> degree = 5 </img>
   <div style="width: 220px;"> degree = 10 </div>
   <div style="width: 220px;"> degree = 14 </div>
 </div>
