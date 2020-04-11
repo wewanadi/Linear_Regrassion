@@ -9,7 +9,7 @@
   - k fold , k = 5 
   - leave one out
   
-| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"> | | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220"> |
+| <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/b_1.png width="220" tital="degree = 1"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_5).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_10).png width="220"> | <img src=https://github.com/wewanadi/Linear_Regrassion/blob/master/picture/ML_HW1(b_14).png width="220"> |
 | :-----: | :----: | :----: | :----: |
 | degree : 1 | degree : 5 | degree : 10 | degree : 14 | 
   
