@@ -194,3 +194,8 @@ plt.legend(['Just Train','5 fold','leave one out','Train Data','Test Data'], loc
 
 plt.savefig("{}/ML_HW1(e_{}_{}_3).png".format(os.getcwd(),pol,data_size),dpi=1000)
 ```
+
+
+
+| degree : 1 | degree : 5 | degree : 10 | degree : 14 | 
+| :-----: | :----: | :----: | :----: |
